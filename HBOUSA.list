@@ -7,6 +7,7 @@
 # PROCESS-NAME: 1
 # USER-AGENT: 1
 # TOTAL: 13
+DOMAIN,wmff.warnermediacdn.com
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
