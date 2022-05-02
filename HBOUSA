@@ -1,0 +1,22 @@
+# NAME: HBOUSA
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-01-18 23:33:27
+# DOMAIN-SUFFIX: 5
+# DOMAIN: 1
+# PROCESS-NAME: 1
+# USER-AGENT: 1
+# TOTAL: 8
+DOMAIN-SUFFIX,cinemax.com
+DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
+DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,forthethrone.com
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogeo.cust.footprint.net
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,manifest.prod.boltdns.net
+DOMAIN-SUFFIX,maxgo.com
+DOMAIN-SUFFIX,youboranqs01.com
+USER-AGENT,HBOMAX*
